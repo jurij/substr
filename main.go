@@ -1,10 +1,10 @@
 package main
 
 import (
-	"html/template"
 	"io/ioutil"
 	"os"
 	"regexp"
+	"text/template"
 )
 
 func main() {
